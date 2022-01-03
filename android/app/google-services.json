@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "838949351968",
+    "project_id": "gadscp-c51dd",
+    "storage_bucket": "gadscp-c51dd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:838949351968:android:9801bd55f5bcf62d588245",
+        "android_client_info": {
+          "package_name": "com.raywenderlich.RayChat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "838949351968-1e4887jbk9v0kmlnhhmprpuk5ur4f6bl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBR9uuiUXFJIxkQ2WyDeP3qIHbdSYsbc-A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "838949351968-1e4887jbk9v0kmlnhhmprpuk5ur4f6bl.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "838949351968-9nv6lldqs9p997a9r6jighho1oh7da1o.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.gadscp.ace.mg46.acemg46"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
